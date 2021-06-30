@@ -1,0 +1,3 @@
+https://developers.google.com/ml-kit/vision/barcode-scanning/android
+https://readandplay.pixnet.net/blog/post/140001110
+https://github.com/zxing/zxing
